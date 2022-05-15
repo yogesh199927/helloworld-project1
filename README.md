@@ -6,6 +6,8 @@ This is the simplest possible Java webapp for testing servlet container deployme
 docker-tomcat-satylearning
 A basic tutorial on running a web app on Tomcat using Docker - SATYLearning - Subscribe my youtube channel
 
+Ref: https://github.com/arun-gupta/docker-kubernetes-hello-world
+
 # Steps
 * Install [Docker](https://docs.docker.com/install/).
 * Clone this repository - $git clone https://github.com/chinni4321/helloworld.git
