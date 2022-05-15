@@ -7,6 +7,7 @@ docker-tomcat-satylearning
 A basic tutorial on running a web app on Tomcat using Docker - SATYLearning - Subscribe my youtube channel
 
 Ref: https://github.com/arun-gupta/docker-kubernetes-hello-world
+     https://github.com/efsavage/hello-world-war
 
 # Steps
 * Install [Docker](https://docs.docker.com/install/).
