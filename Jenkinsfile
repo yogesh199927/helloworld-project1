@@ -23,7 +23,7 @@ stages {
     stage('Git checkout'){
       steps {
         git branch: '${Branch}',
-        url: 'https://github.com/chinni4321/game-of-life.git'
+        url: 'https://github.com/chinni4321/helloworld.git'
       }
     }
     stage('Maven build'){
