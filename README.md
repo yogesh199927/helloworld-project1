@@ -16,5 +16,5 @@ Ref: https://github.com/arun-gupta/docker-kubernetes-hello-world
 * mvn clean install # Build using maven command
 * $docker build -t helloworld .
 * $docker run -p 8082:8080 helloworld
-* http://localhost/hello-world-war-1.0.0:8082
+* http://localhost:8082/hello-world-war-1.0.0
 
