@@ -65,8 +65,7 @@ stages {
           script {
             sh "kubectl config use-context gke_able-decorator-354310_us-central1-c_batch-15"
             sh "cd ${WORKSPACE}"
-            sh "kubectl delete -f '${WORKSPACE}'kube/deployment.yaml"
-            sh "kubectl create -f '${WORKSPACE}'kube/deployment.yaml"
+            sh "kubectl apply -f '${WORKSPACE}'kube/deployment.yaml"
             sh "kubectl apply -f '${WORKSPACE}'kube/service.yaml"
           }
          }
