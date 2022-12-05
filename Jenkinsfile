@@ -1,5 +1,5 @@
 pipipeline {
-agent { label 'master' }
+agent any
 
 tools{
  jdk 'Java'
