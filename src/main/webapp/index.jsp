@@ -3,8 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Batch19 Project has been completed
-            Thank you for choosing CIT Technologies</h1>
+	<h1>Welcome to CIT Technologies...!!!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
