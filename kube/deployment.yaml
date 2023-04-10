@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: gcr.io/singular-backup-373704/helloworld
+        image: gcr.io/noble-feat-382600/helloworld
         ports:
         - containerPort: 80
         - containerPort: 443
