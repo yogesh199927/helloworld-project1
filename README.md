@@ -11,8 +11,8 @@ Ref: https://github.com/arun-gupta/docker-kubernetes-hello-world
 
 ########### Steps ####################
 * Install [Docker](https://docs.docker.com/install/).
-* Clone this repository - $git clone https://github.com/chinni4321/helloworld.git
-* cd helloworld # from your root directory
+* Clone this repository - $ git clone https://github.com/chinni4321/helloworld.git](https://github.com/chinni4321/helloworld-project-1.git
+* cd helloworld-project-1 # from your root directory
 * mvn clean install # Build using maven command
 * $docker build -t helloworld .
 * $docker run -p 8082:8080 helloworld
