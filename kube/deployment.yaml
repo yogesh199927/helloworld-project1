@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: gcr.io/fleet-impact-392712/helloworld:latest
+        image: gcr.io/encoded-region-398412/helloworld:latest
         ports:
         - containerPort: 80
         - containerPort: 443
